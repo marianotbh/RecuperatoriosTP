@@ -1,0 +1,34 @@
+E:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+E:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+E:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+E:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Form1.resources
+E:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+E:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.GenerateResource.Cache
+E:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+E:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
+D:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+D:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+D:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
+D:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+D:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+D:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csprojResolveAssemblyReference.cache
+D:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Form1.resources
+D:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+D:\TSP\Cuatrimestre II\Laboratorio II\TP1\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.GenerateResource.Cache
+C:\Users\mariano\Documents\GitHub\tp_laboratorio_2\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+C:\Users\mariano\Documents\GitHub\tp_laboratorio_2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+C:\Users\mariano\Documents\GitHub\tp_laboratorio_2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
+C:\Users\mariano\Documents\GitHub\tp_laboratorio_2\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+C:\Users\mariano\Documents\GitHub\tp_laboratorio_2\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+C:\Users\mariano\Documents\GitHub\tp_laboratorio_2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csprojResolveAssemblyReference.cache
+C:\Users\mariano\Documents\GitHub\tp_laboratorio_2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Form1.resources
+C:\Users\mariano\Documents\GitHub\tp_laboratorio_2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+C:\Users\mariano\Documents\GitHub\tp_laboratorio_2\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.GenerateResource.Cache
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP1\TrabajoPractico1\obj\Debug\TrabajoPractico1.LaCalculadora.resources
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.GenerateResource.Cache
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP1\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP1\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP1\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
