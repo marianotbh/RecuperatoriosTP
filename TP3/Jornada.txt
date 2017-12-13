@@ -1,8 +1,8 @@
-CLASE DE Laboratorio POR NOMBRE COMPLETO: Lopez, Juan 
-NACIONALIDAD: Argentino - DNI: 12234456
-LEGAJO: 1
+CLASE DE Laboratorio POR NOMBRE COMPLETO: Juarez, Roberto 
+NACIONALIDAD: Argentino - DNI: 32234456
+LEGAJO: 2
 CLASES DEL DIA:
-Laboratorio
+SPD
 Laboratorio
 
 ALUMNOS:

@@ -48,3 +48,17 @@ D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Archivoslib.pdb
 D:\TP3\Burgos.Mariano.2C.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
 D:\TP3\Burgos.Mariano.2C.TP3\Main\obj\Debug\Main.exe
 D:\TP3\Burgos.Mariano.2C.TP3\Main\obj\Debug\Main.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Main.exe.config
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\obj\Debug\Main.exe
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\obj\Debug\Main.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Main.exe
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Main.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Clases Abstractas lib.dll
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Clases Instanciables lib.dll
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Excepciones lib.dll
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Archivoslib.dll
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Clases Abstractas lib.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Clases Instanciables lib.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Excepciones lib.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\bin\Debug\Archivoslib.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache

@@ -7,3 +7,8 @@ D:\TP3\Burgos.Mariano.2C.TP3\Excepciones\bin\Debug\Excepciones lib.pdb
 D:\TP3\Burgos.Mariano.2C.TP3\Excepciones\obj\Debug\Excepciones lib.dll
 D:\TP3\Burgos.Mariano.2C.TP3\Excepciones\obj\Debug\Excepciones lib.pdb
 D:\TP3\Burgos.Mariano.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Excepciones\bin\Debug\Excepciones lib.dll
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Excepciones\bin\Debug\Excepciones lib.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Excepciones\obj\Debug\Excepciones lib.dll
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Excepciones\obj\Debug\Excepciones lib.pdb

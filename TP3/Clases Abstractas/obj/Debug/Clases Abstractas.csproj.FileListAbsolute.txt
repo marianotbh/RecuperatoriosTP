@@ -12,3 +12,10 @@ D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\bin\Debug\Excepciones lib.pdb
 D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
 D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas lib.dll
 D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas lib.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Clases Abstractas\bin\Debug\Clases Abstractas lib.dll
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Clases Abstractas\bin\Debug\Clases Abstractas lib.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Clases Abstractas\bin\Debug\Excepciones lib.dll
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Clases Abstractas\bin\Debug\Excepciones lib.pdb
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Clases Abstractas\obj\Debug\Clases Abstractas lib.dll
+C:\Users\mariano\Documents\GitHub\RecuperatoriosTP\TP3\Clases Abstractas\obj\Debug\Clases Abstractas lib.pdb
